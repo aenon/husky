@@ -1,0 +1,7 @@
+input_dir: "content"
+output_dir: "public"
+templates_dir: "templates"
+assets_dir: "assets"
+default_template: "default.html"
+site_name: "My Static Site"
+base_url: "https://example.com"
