@@ -13,11 +13,13 @@ tera = "1.19"
 walkdir = "2.3"
 anyhow = "1.0"
 tokio = { version = "1.28", features = ["full"] }
-deno_core = "0.188"
-deno_runtime = "0.188"
 async-trait = "0.1"
 glob = "0.3"
 fs_extra = "1.3"
+deno_core = "0.343.0"
+deno_runtime = "0.207.0"
+log = "0.4.27"
+
 [dev-dependencies]
 [build-dependencies]
 [profile.release]
